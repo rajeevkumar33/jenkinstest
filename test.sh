@@ -1,3 +1,4 @@
-ls
+
 uname -a
 hostname
+
